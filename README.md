@@ -8,3 +8,9 @@ application up and running.
 - BUILDING THE MODELS (Using the rails console to understand CRUD)
 
 - ADDING VALIDATION TO OUR MODELS
+
+- THE FRONTEND SHOW: Show article
+    * Route
+    * Controller#action
+    * Model/db_table
+    * View
