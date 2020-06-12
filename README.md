@@ -14,3 +14,9 @@ application up and running.
     * Controller#action
     * Model/db_table
     * View
+    
+- THE FRONTEND INDEX: list all article
+    * Route
+    * Controller#action
+    * Model/db_table
+    * View
