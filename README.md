@@ -37,5 +37,10 @@ application up and running.
 - THE FRONTEND DESTROY: Delete article
     * REST - Representational state transfer - mapping HTTP verbs(gets, post, update, delete) to CRUD
     * Resources provides REST-ful routes to Rails resources
+    * Building pages links
+    
+- DRY code: Don't repeat yourself
+    * re-factoring
+    * extract away the redundancies in code
    
     
