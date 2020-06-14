@@ -20,3 +20,21 @@ application up and running.
     * Controller#action
     * Model/db_table
     * View
+
+- THE FRONTEND CREATE: Create new article
+    * Create Route
+    * Controller#new
+    * Model/db_table
+    * View new
+    
+- THE FRONTEND CREATE: Edit/Update article
+    * Create Route
+    * Controller#edit/#update
+    * Model/db_table
+    * View edit
+    
+- THE FRONTEND DESTROY: Delete article
+    * REST - Representational state transfer - mapping HTTP verbs(gets, post, update, delete) to CRUD
+    * Resources provides REST-ful routes to Rails resources
+   
+    
