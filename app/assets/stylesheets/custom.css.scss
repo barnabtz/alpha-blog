@@ -52,6 +52,10 @@
   h1 {
     color: white
   }
+  p {
+    color: white;
+    font-size: 15px;
+  }
 }
 
 .jumbotron {
@@ -74,4 +78,10 @@ html, body {
 
 #sticky-footer {
   flex-shrink: none;
+}
+
+.card-body {
+  .btn {
+    color: black;
+  }
 }
