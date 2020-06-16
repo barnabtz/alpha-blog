@@ -1,0 +1,77 @@
+@import "bootstrap";
+
+//Editing the navbar for Alpha Blog
+
+.navbar {
+  background-color: black!important;
+  font-family: "Advent Pro Medium", sans-serif;
+}
+
+.nav-link {
+  color: white!important;
+}
+
+.btn {
+  border-radius: 25px;
+  color: white;
+  border-color: dodgerblue;
+}
+
+.ed-bt {
+  border-radius: 25px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: "Archivo Black", sans-serif;
+  color: white!important;
+  font-weight: bolder;
+  letter-spacing: -1pw;
+}
+
+#home-container {
+  margin-top: 35px;
+}
+
+#jbt-edit {
+  font-family: "Muli Black", sans-serif;
+  .btn {
+    border-radius: 10px;
+    background-color: green;
+    border: green;
+  }
+  .display-3{
+    font-family: "Archivo Black", sans-serif;
+    font-size: 50px;
+  }
+  .lead {
+    color: white;
+    //font-family: "Advent Pro", sans-serif;
+    font-weight: bold;
+  }
+  h1 {
+    color: white
+  }
+}
+
+.jumbotron {
+  background-image: asset_url('img-jumbotron.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+}
+
+html, body {
+  height: 100%;
+  background-color: lightgrey;
+  font-family: "Muli Light", sans-serif;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}

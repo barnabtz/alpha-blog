@@ -15,3 +15,8 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+
+//Importing bootstrap, jquery and popper for frontend
+import "bootstrap"
+// import "popper.js"
+// import "jquery"

@@ -2,6 +2,9 @@
   <dictionary name="ce">
     <words>
       <w>byebug</w>
+      <w>navbar</w>
+      <w>toggler</w>
+      <w>turbolinks</w>
     </words>
   </dictionary>
 </component>
