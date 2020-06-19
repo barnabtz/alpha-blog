@@ -43,3 +43,4 @@ yarn-debug.log*
 !/ite.
 erver at github.com.
 ite.
+!/.idea/
