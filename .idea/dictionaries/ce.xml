@@ -2,6 +2,7 @@
   <dictionary name="ce">
     <words>
       <w>barnabtz</w>
+      <w>bcrypt</w>
       <w>byebug</w>
       <w>navbar</w>
       <w>toggler</w>
