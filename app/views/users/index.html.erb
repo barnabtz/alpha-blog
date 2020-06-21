@@ -1,0 +1,11 @@
+<h1 class="text-center mt-4"> Users listing</h1>
+
+<div class="flickr_pagination text-center mt-4">
+  <%= will_paginate @users, :container => false %>
+</div>
+
+<%= render 'users/users' %>
+
+<div class="flickr_pagination text-center mb-4">
+  <%= will_paginate @users, :container => false %>
+</div>

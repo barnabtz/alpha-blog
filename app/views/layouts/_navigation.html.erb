@@ -7,7 +7,7 @@
   <div class="collapse navbar-collapse" id="collapsibleNavId">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item active">
-        <%= link_to "ABOUT", about_path, class: "nav-link" %>
+        <%= link_to "BLOGGERS", users_path, class: "nav-link" %>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ARTICLES ACTION</a>
@@ -21,5 +21,11 @@
       <input class="ed-bt form-control mr-sm-2" type="text" placeholder="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
+    <li class="nav-item active">
+      <%= link_to "ABOUT", about_path, class: "nav-link" %>
+    </li>
+    <li class="nav-item active">
+      <%= link_to "CONTACT US", about_path, class: "nav-link" %>
+    </li>
   </div>
 </nav>
