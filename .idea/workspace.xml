@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed356378-7956-455b-ba2d-d5394a4d16a7" name="Default Changelist" comment="" />
+    <list id="e3d06507-5491-497d-89fa-4e0948d7a9b3" name="home, about pages controller and route" comment="home, about pages controller and route">
+      <changelist_data name="barnabtz" email="barnabtz@gmail.com" date="1591848879000" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ERB File" />
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1dBdB4OBXhkF5GhWg1fPZkVg3sN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="380" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="379" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="380" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="379" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="380" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="379" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="380" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="379" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/assets/images" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV-PROJECTS\rails_projects\alpha-blog\app\assets\images" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: alpha-blog">
+    <configuration name="Development: alpha-blog" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="alpha-blog" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: alpha-blog" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="alpha-blog" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: alpha-blog" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="alpha-blog" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: alpha-blog" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="alpha-blog" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ce\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed356378-7956-455b-ba2d-d5394a4d16a7" name="Default Changelist" comment="" />
+      <created>1591902285357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591902285357</updated>
+      <workItem from="1591902313247" duration="6151000" />
+      <workItem from="1591955577229" duration="9158000" />
+      <workItem from="1591997707671" duration="8634000" />
+      <workItem from="1592010963385" duration="1141000" />
+      <workItem from="1592012751393" duration="756000" />
+      <workItem from="1592066541714" duration="5973000" />
+      <workItem from="1592085152659" duration="5945000" />
+      <workItem from="1592147465133" duration="2986000" />
+      <workItem from="1592165545456" duration="8468000" />
+      <workItem from="1592246939416" duration="5390000" />
+      <workItem from="1592265822400" duration="6214000" />
+      <workItem from="1592273040078" duration="122000" />
+      <workItem from="1592273256593" duration="36000" />
+      <workItem from="1592273432248" duration="101000" />
+      <workItem from="1592273588407" duration="381000" />
+      <workItem from="1592274026935" duration="252000" />
+      <workItem from="1592300382926" duration="567000" />
+      <workItem from="1592301127691" duration="446000" />
+      <workItem from="1592301629724" duration="43105000" />
+      <workItem from="1592424534317" duration="214000" />
+      <workItem from="1592499116004" duration="10021000" />
+      <workItem from="1592592345481" duration="11857000" />
+      <workItem from="1592641626714" duration="4976000" />
+      <workItem from="1592686211824" duration="4657000" />
+      <workItem from="1592731664523" duration="6523000" />
+      <workItem from="1592750013498" duration="7649000" />
+      <workItem from="1592766201285" duration="3488000" />
+      <workItem from="1592812758129" duration="13244000" />
+      <workItem from="1592874477021" duration="3520000" />
+      <workItem from="1592903039632" duration="26000" />
+      <workItem from="1592918403262" duration="11432000" />
+      <workItem from="1592934174166" duration="2142000" />
+    </task>
+    <task id="LOCAL-00001" summary="Article Delete">
+      <created>1592092820030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592092820033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Article Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article Delete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="363" width="421" height="203" key="#Custom_Plugin_Repositories" timestamp="1592273710484">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="679" y="363" width="421" height="203" key="#Custom_Plugin_Repositories/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592273710484" />
+    <state x="579" y="200" key="#HTTP_Proxy" timestamp="1592274100168">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="579" y="200" key="#HTTP_Proxy/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592274100168" />
+    <state x="426" y="143" key="#Inspections" timestamp="1592815818747">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="426" y="143" key="#Inspections/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592815818747" />
+    <state x="685" y="327" key="#Notifications" timestamp="1592255980681">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="685" y="327" key="#Notifications/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592255980681" />
+    <state x="392" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592599637119">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="392" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592599637119" />
+    <state x="550" y="266" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592092726193">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="550" y="266" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592092726193" />
+    <state x="530" y="211" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592342006399">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="530" y="211" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592342006399" />
+    <state x="547" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592271959637">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="547" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592271959637" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1592511099942">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592511099942" />
+    <state x="92" y="122" width="1416" height="686" key="DiffContextDialog" timestamp="1591998493170">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="92" y="122" width="1416" height="686" key="DiffContextDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1591998493170" />
+    <state x="479" y="229" key="FileChooserDialogImpl" timestamp="1592274247705">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="479" y="229" key="FileChooserDialogImpl/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592274247705" />
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom" timestamp="1592934514586">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.0.bottom/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169179" />
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592934514586" />
+    <state width="1397" height="214" key="GridCell.Tab.0.center" timestamp="1592934514586">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.0.center/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169178" />
+    <state width="1397" height="214" key="GridCell.Tab.0.center/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592934514586" />
+    <state width="1397" height="214" key="GridCell.Tab.0.left" timestamp="1592934514584">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.0.left/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169178" />
+    <state width="1397" height="214" key="GridCell.Tab.0.left/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592934514584" />
+    <state width="1397" height="214" key="GridCell.Tab.0.right" timestamp="1592934514586">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.0.right/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169178" />
+    <state width="1397" height="214" key="GridCell.Tab.0.right/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592934514586" />
+    <state width="963" height="214" key="GridCell.Tab.1.bottom" timestamp="1592933682309">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.1.bottom/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169180" />
+    <state width="963" height="214" key="GridCell.Tab.1.bottom/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592933682309" />
+    <state width="963" height="214" key="GridCell.Tab.1.center" timestamp="1592933682309">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.1.center/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169179" />
+    <state width="963" height="214" key="GridCell.Tab.1.center/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592933682309" />
+    <state width="963" height="214" key="GridCell.Tab.1.left" timestamp="1592933682309">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.1.left/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169179" />
+    <state width="963" height="214" key="GridCell.Tab.1.left/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592933682309" />
+    <state width="963" height="214" key="GridCell.Tab.1.right" timestamp="1592933682309">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="1557" height="268" key="GridCell.Tab.1.right/0.0.1600.870/-1366.0.1366.738@0.0.1600.870" timestamp="1592743169180" />
+    <state width="963" height="214" key="GridCell.Tab.1.right/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592933682309" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1592511207712">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592511207712" />
+    <state x="422" y="142" key="IDE.errors.dialog" timestamp="1592922505012">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="422" y="142" key="IDE.errors.dialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592922505012" />
+    <state x="-1366" y="0" width="1366" height="733" key="MergeDialog" timestamp="1592164674704">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-1366" y="0" width="1366" height="733" key="MergeDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592164674703" />
+    <state x="356" y="331" width="816" height="283" key="MultipleFileMergeDialog" timestamp="1592164675934">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="356" y="331" width="816" height="283" key="MultipleFileMergeDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592164675934" />
+    <state x="605" y="185" key="RollbackChangesDialog" timestamp="1592163849283">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="605" y="185" key="RollbackChangesDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592163849283" />
+    <state x="347" y="106" key="SettingsEditor" timestamp="1592919404856">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="347" y="106" key="SettingsEditor/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592919404856" />
+    <state x="216" y="143" width="1166" height="538" key="VCS.FileHistoryDialog" timestamp="1592165286758">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="216" y="143" width="1166" height="538" key="VCS.FileHistoryDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592165286758" />
+    <state x="682" y="352" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1591905041888">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="682" y="352" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1591905041888" />
+    <state x="658" y="202" width="411" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591904906280">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="658" y="202" width="411" height="525" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1591904906280" />
+    <state x="548" y="197" width="612" height="455" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592179484390">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="548" y="197" width="612" height="455" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592179484390" />
+    <state x="456" y="213" width="672" height="677" key="run.anything.popup" timestamp="1592766937944">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="456" y="213" width="672" height="677" key="run.anything.popup/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592766937944" />
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1592335795013">
+      <screen x="0" y="30" width="1600" height="870" />
+    </state>
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup/0.30.1600.870/-1366.0.1366.738@0.30.1600.870" timestamp="1592335795013" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alpha_blog@Development__alpha_blog.rcov" NAME="Development: alpha-blog Coverage Results" MODIFIED="1592926668538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="alpha-blog" />
+  </component>
+</project>
