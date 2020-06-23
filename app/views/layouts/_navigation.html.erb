@@ -7,12 +7,37 @@
   <div class="collapse navbar-collapse" id="collapsibleNavId">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item active">
-        <%= link_to "BLOGGERS", users_path, class: "nav-link" %>
+        <%= link_to "Bloggers", users_path, class: "nav-link" %>
       </li>
+
+      <% if logged_in? %>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <%= "(Admin)" if current_user.admin? %> Profile [<%= current_user.username %>]
+          </a>
+          <div class="dropdown-menu" aria-labelledby="dropdownId">
+            <%= link_to 'View your profile', user_path(current_user), class: 'dropdown-item' %>
+            <%= link_to 'Edit your profile', edit_user_path(current_user),class: 'dropdown-item' %>
+            <%= link_to 'Delete your profile', user_path(current_user), method: :delete, class: 'dropdown-item text-danger', data: {confirm: 'Are your sure?'} %>
+          </div>
+        </li>
+        <li class="nav-item active">
+          <%= link_to "Logout", logout_path, class: "nav-link", method: :delete %>
+        </li>
+      <% else %>
+        <li class="nav-item active">
+          <%= link_to "Login", login_path, class: "nav-link" %>
+        </li>
+      <% end %>
+
+
+
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">ARTICLES ACTION</a>
         <div class="dropdown-menu" aria-labelledby="dropdownId">
-          <%= link_to 'Create new Article', new_article_path, class: 'dropdown-item' %>
+          <% if logged_in? %>
+            <%= link_to 'Create new Article', new_article_path, class: 'dropdown-item' %>
+          <% end %>
           <%= link_to 'View articles', articles_path,class: 'dropdown-item' %>
         </div>
       </li>
@@ -22,10 +47,10 @@
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
     <li class="nav-item active">
-      <%= link_to "ABOUT", about_path, class: "nav-link" %>
+      <%= link_to "About", about_path, class: "nav-link" %>
     </li>
     <li class="nav-item active">
-      <%= link_to "CONTACT US", about_path, class: "nav-link" %>
+      <%= link_to "Contact", about_path, class: "nav-link" %>
     </li>
   </div>
 </nav>
